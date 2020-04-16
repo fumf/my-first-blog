@@ -25,11 +25,7 @@ SECRET_KEY = '$y%04y9$!+&c0us8p^2%2b44lb5y_wwvl%0gtpx*dr!a5emfd)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-<<<<<<< HEAD
 ALLOWED_HOSTS = ['127.0.0.1', 'fumf.pythonanywhere.com']
-=======
-ALLOWED_HOSTS = ['127.0.0.1']
->>>>>>> 80b123758d5266f01e7906d6f81b625987b2c8bd
 
 
 # Application definition
