@@ -1,6 +1,4 @@
 *.pyc
-*~
-/.vscode
 __pycache__
 fumfvenv
 db.sqlite3
